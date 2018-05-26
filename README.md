@@ -9,7 +9,7 @@ Get a copy of this project, put and running in your project. This project presen
 Create package in your src folder and copy files from this project. Use model to create request for SMS.
 
 ## Authors
-* [**Ilija Veselinović**](https://github.com/ilijav) - *SmsBuilder*
+* [**Ilija Veselinović**](https://github.com/ilijav)
 
 ## License
 
