@@ -8,6 +8,9 @@ Get a copy of this project, put and running in your project. This project presen
 ### Installing
 Create package in your src folder and copy files from this project. Use model to create request for SMS.
 
+### Releases
+v1.0
+
 ## Authors
 * [**Ilija Veselinović**](https://github.com/ilijav)
 
